@@ -1,6 +1,6 @@
 # Data-Modeling-With-Excel-CPES-Saclay
 
-Ce dépôt regroupe l’ensemble des supports et exercices réalisés dans le cadre d’un cours de modélisation de données sous Excel à HEC. Chaque séance aborde une application concrète des fonctionnalités d’Excel : structuration de bases de données, fonctions conditionnelles, recherche dynamique, tableaux croisés, analyse de sensibilité, automatisation via les tables de données, ou encore construction de tableaux de bord. L’objectif est de développer des compétences pratiques en modélisation, utiles dans de nombreux contextes professionnels (finance, conseil, marketing, etc.).
+Ce dépôt regroupe l’ensemble des supports et exercices réalisés dans le cadre d’un cours de modélisation de données sous Excel à HEC, enseigné par Alexis Joulié. Chaque séance aborde une application concrète des fonctionnalités d’Excel : structuration de bases de données, fonctions conditionnelles, recherche dynamique, tableaux croisés, analyse de sensibilité, automatisation via les tables de données, ou encore construction de tableaux de bord. L’objectif est de développer des compétences pratiques en modélisation, utiles dans de nombreux contextes professionnels (finance, conseil, marketing, etc.).
 
 ---
 
